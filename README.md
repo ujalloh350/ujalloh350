@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python programming in the future
 - 📫 lazmird@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: "I love people"
+- ⚡ Fun fact: "I am friendly"
 
 <!---
 ujalloh350/ujalloh350 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
